@@ -1,0 +1,50 @@
+.ourservices{
+	padding: 100px 0px 60px;
+	height: 700px;
+
+}
+.ourservices h1{
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.ourservices{
+	padding: 100px 0px 60px;
+	height: 700px;
+
+}
+.ourservices h1{
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.ourservices p{
+ padding: 10px;
+    color: #6c757d;
+}
+.rowsetting{
+	margin: 80px 0px;
+
+}
+
+.rounded-circle{
+	height: 80px;
+	width: 80px;
+	
+}
+
+.fa{
+	margin-top: 15px;
+}
+
+.rowsetting p{
+    padding: 10px;
+    color: #6c757d;
+
+}
+
+.rowsetting h3{
+	margin-top: 20px;
+	font-size: 20px;
+	font-weight: bold;
+}
